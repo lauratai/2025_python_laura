@@ -1,0 +1,8 @@
+def greet_person(name):
+    """個人化問候函數"""
+    print(f"你好,{name}!很高興見到你!")
+    """個人化問候函數"""
+    print(f"{name}，你今天好嗎")
+    
+#呼叫函數
+greet_person("name")
